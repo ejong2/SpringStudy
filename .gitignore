@@ -1,6 +1,9 @@
 HELP.md
 .gradle
+<<<<<<< HEAD
 .gitignore
+=======
+>>>>>>> 9b4e246a38a0c7cbd6e1a7cff03603da4af0cc83
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/

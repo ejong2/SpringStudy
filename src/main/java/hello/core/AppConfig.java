@@ -13,7 +13,7 @@ import hello.core.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-@Configuration
+@Configuration // 싱글톤 보장 (바이트 조작)
 public class AppConfig {
 
     //@Bean memberService -> new MemoryMemberRepository()
